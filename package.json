@@ -1,0 +1,20 @@
+{
+  "name": "test_script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "jscs": "^3.0.7",
+    "nconf": "^0.8.4"
+  },
+  "devDependencies": {
+    "colors": "^1.1.2",
+    "nconf": "^0.8.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
